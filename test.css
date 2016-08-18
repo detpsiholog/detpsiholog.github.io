@@ -1,0 +1,133 @@
+div {
+   background: white;
+   padding: 1rem;
+   width: 400px;
+ }
+ 
+ div p {
+   color: grey;
+   margin-top: 0;
+ }
+ 
+ a {
+    background: blue;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    transition: all 5s;
+}
+ 
+ div:hover a {
+   background: red;
+ }
+ 
+ a.with-delay {
+   transition-delay: 1s;
+ }
+.transition {
+    background-color: firebrick;
+    color: firebrick;
+    transition: all 0.5s;
+}
+
+.transition:hover {
+    background-color: darkseagreen;
+    color: aquamarine;
+} 
+
+
+
+.plos {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    top: 200px;
+}
+
+.coube {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 0;
+    transition: all 2s;
+    transition-timing-function: ease-in-out;
+    
+}
+
+.plos:hover .coube{
+    left: 400px;
+    background-color: aquamarine;
+}
+
+.text {
+    color: red;
+}
+
+.line {
+    border-top-width: 5px;
+    width: 0px;
+    float: left;
+    transition: all 1s;
+}
+
+.pulse:hover .line {
+    width: 300px;
+}
+
+
+
+
+
+.fadeindown {
+    animation-delay: 0.5s;
+    animation-duration: 2s;
+}
+
+#fade {
+    animation-delay: 0.3s;
+}
+
+#fadei {
+    animation-delay: 0.7s;
+}
+
+#fadein {
+    animation-delay: 1s;
+}
+
+.fadeinleft {
+    animation-duration: 1.5s;
+}
+
+.fadeinup {
+    animation-duration: 1.5s;
+}
+
+
+
+.zoom {
+    background-image: url(Images/1292050212.jpg);
+    transition: background 0.8s;
+    width: 300px;
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+.zoom:hover {
+    background-image: url(Images/1292050212%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg);
+    
+}
+.slideInUp {
+    animation-duration: 1s;
+    animation-delay: 1s;
+  
+}
+
+.zoomIn {
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: backwards;
+}

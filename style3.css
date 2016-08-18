@@ -1,0 +1,553 @@
+  
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed|Open+Sans&subset=latin,cyrillic);
+
+#header {
+    background-image: url(Images/artsfon.com-72618.jpg);
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.intro-text {
+    padding-top: 0px;
+    padding-left: 80px;
+    animation-delay: 0s;
+}
+
+#aboutme {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+}
+
+#footer {
+    height: 200px;
+    background-image: url(Images/footer.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+#footer2 {
+    height: 200px;
+    background-image: url(Images/footer.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    
+}
+
+
+
+#slider {
+   
+    padding-bottom: 3px;
+    width: 550px;
+    height: auto;
+}
+
+.navbar-nav > li > a {
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+
+}
+
+.brand {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#h {
+    font-family:'Open Sans', sans-serif;
+        letter-spacing: 1px;
+    animation-delay: 0.3s;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #000;
+}
+
+#content {
+   
+    padding-top: 90px;
+    padding-bottom: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+#top-left-btn {
+    width: 33%;
+    height: 289.5px;
+    background-image: url(Images/IMG_5793.jpg);
+    background-position: center;
+    position: relative;
+    left: 5.85px;
+    
+   
+}
+
+#top-right-btn {
+    width: 33%;
+    float: right;
+    height: 289.5px;
+    background-image: url(Images/IMG_4763.jpg);
+    background-position: center;
+}
+
+#mid-left-btn {
+    width: 33%;
+    float: left;
+    height: 289.5px;
+    background-image:;
+    background-position: center;
+    
+}
+
+#mid-right-btn {
+    width: 33%;
+    float: left;
+    height: 289.5px;
+    background-image: url(Images/20160603_093358.jpg);
+    background-position: center;
+    position: relative;
+    top: 20px;
+    
+}
+
+#bottom-left-btn {
+    width: 33%;
+   position: relative;
+    left: 5.85px;
+    top: 20px;
+    height: 289.5px;
+    background-position: center;
+    background-image: url(Images/20160603_094738.jpg);
+    
+}
+
+#bottom-right-btn {
+     width: 33%;
+    float: right;
+    height: 289.5px;
+    background-image: url(Images/IMG_4746.jpg);
+    background-position: center;
+    position: relative;
+    top: 20px;
+    
+}
+
+#top-btn {
+    left: 5.85px;
+}
+
+#left-bottom-btn {
+    float: left;
+}
+
+#right-bottom-btn {
+    float: right;
+}
+
+
+
+
+
+#top-left-a {
+    float: left;
+    width: 33%;
+    position: relative;
+}
+
+#top-mid-a {
+    width: 33%;
+    position: relative;
+    left: 5.85px;
+    
+}
+
+#top-right-a {
+    width: 33%;
+    float: right;
+    position: relative;
+}
+
+.games-btn {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom: #fff;
+    width: 33%;
+    height: 289.5px;
+    background-position: center;
+    position: relative;
+}
+
+.games-bottom-btn {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top: #fff;
+}
+
+
+
+#games-aggressive-content {
+    padding-top: 90px;
+    padding-bottom: 30px;
+    font-family: 'Open Sans', sans-serif;
+    height: 779px;
+}
+
+
+
+
+.btn-diagnostics {
+    border-color: #fff;
+    border-radius: 0;
+    height: 150px;
+    background-image: url(Images/d-btn-bg-4.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    color: #666;
+    text-transform: ;
+    font-size: 22px;
+    padding-top: 52px;
+    transition: background 0.4s;
+}
+
+
+.btn-diagnostics:hover {
+    background-color: #5BC0DE;
+    color: #fff;
+    border-color: #5BC0DE;
+    background-image: none;
+    border-width: 1px;
+}
+
+
+
+
+
+.dg-btn-top {
+    border-top-color: #888;
+    border-width: medium;
+}
+
+.dg-btn-left {
+    border-left-color: #888;
+    border-width: medium;
+    border-right-width: 0.5px;
+     border-right-width: 0.5px;
+    border-right-color: #5BC0DE;
+    
+}
+
+.dg-btn-right {
+    border-right-color: #888;
+    border-width: medium;
+    background-image: url(Images/d-btn-bg-5.jpg);
+    background-position: bottom right;
+    border-left-width: 0.5px;
+    border-left-color: #5BC0DE;
+}
+
+.btn-info-bordered {
+    color: #5BC0DE;
+    background-color: #fff;
+    border-color: #5BC0DE;
+    box-shadow: none;
+    border-radius: 0px;
+    border: 2px solid;
+}
+
+.btn-info-bordered:hover {
+    background-color: #5BC0DE;
+    color: #fff;
+    border-color: #5BC0DE;
+}
+
+.dg-nav {
+    padding-top: 30px;
+}
+
+.dg-btn-3 {
+    padding-top: 25px;
+}
+
+
+.dg-btn-2 {
+    padding-top: 30px;
+}
+
+.dg-btn-bottom {
+    border-bottom-color: #888;
+    border-width: medium;
+}
+
+.content {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-size: ;
+    font-family: 'Open Sans', sans-serif;    
+}
+
+#dg-met-face-3 {
+    float: left;
+}
+
+.content-header {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.dg-beseda-comtent {
+        height: 779px;
+}
+
+.short-content {
+    height: 779px;
+}
+
+
+.content-gallery-full {
+    width: 70%;
+    position: relative;
+}
+
+h3, h4, h5 {
+    text-align: center;
+}
+.content-gallery-formula {
+    width: 20%;
+}
+
+.sm-table {
+    width: 90px;
+}
+
+b {
+    font-size: 16px;
+}
+
+strong {
+    font-size: 16px;
+}
+.btn-center {
+    position: relative;
+    
+    border-right-color: #888;
+    border-width: medium;
+    border-left-color: #888;
+    background-image: url();
+    border-bottom-color: #888;
+}
+
+
+  .nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+  color: #5BC0DE;
+  cursor: default;
+  background-color: #fff;
+  border: 2px solid #5BC0DE;
+  border-bottom-color: transparent;
+  border-radius: 0px;    
+    height: 42px;
+}
+.nav-home {
+    background-color: rgba(21,32,44,0);
+}
+
+.nav-tabs > li > a:hover,
+.nav-tabs > li > a:focus {
+    background-color: #5BC0DE;
+    color: #fff;
+    border-radius: 0px;
+}
+.home-slider {
+    float: right;
+}
+
+
+
+.btn-more-photos {
+    width: 522px;
+    left: 50%;
+    margin-left: -261px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+.vertical-small-img {
+    width: 300px;
+    padding-bottom: 20px;
+}
+
+.text-content {
+    text-align: justify;
+}
+
+.right-side-img {
+    float: right;
+    padding-left: 15px;
+}
+
+.horiz-small-img {
+    width: 300px;
+    padding-bottom: 20px;
+}
+
+#con-sens-last-par {
+    padding-top: 70px;
+}
+
+.content-wrapper {
+     background-color: white;
+    top: 600px;
+    min-height: 12%;
+    position:absolute;
+    z-index: 2;
+    width: 100%; 
+}
+
+.header {
+    position: fixed;
+    width:100%;
+    z-index: 1;
+    height: 88%;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+}
+
+.gallery {
+    height: 800px;
+    
+}
+
+.gallery-el-1 {
+    background-color: #999;
+}
+
+.gallery-el-2 {
+    background-color: #777;
+}
+
+.gallery-el-3 {
+    background-color: #666;
+}
+
+.dg-metodface-table {
+    
+}
+
+.intro-text-home {
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+#games-btn-1 {
+    background-image: url(Images/IMG_5793.jpg);
+    background-position: center;
+    height: 289.5px;
+}
+
+#games-btn-2 {
+     height: 289.5px;
+    background-image: url(Images/IMG_4763.jpg);
+    background-position: center;
+}
+
+#games-btn-3 {
+    height: 289.5px;
+    background-image:;
+    background-position: center;
+}
+
+#games-btn-4 {
+    height: 289.5px;
+    background-image: url(Images/20160603_093358.jpg);
+    background-position: center;
+}
+
+#games-btn-5 {
+    height: 289.5px;
+    background-position: center;
+    background-image: url(Images/20160603_094738.jpg);
+}
+
+#games-btn-6 {
+    height: 289.5px;
+    background-image: url(Images/IMG_4746.jpg);
+    background-position: center;
+}
+
+.btn-group-vertical {
+    padding-top: 10px;
+}
+
+.deti-23-tab-content {
+    height: 598px;
+}
+
+
+.fadeInDown {
+    animation-delay: 0.3s;
+    animation-duration: 2s;
+}
+
+.fadeInUp {
+    animation-delay: 0.5s;
+    animation-duration: 1.5s;
+}
+
+.fadeInLeft {
+    animation-delay: 0.5s;
+    animation-duration: 0.7s;
+}
+
+.dg-content {
+    animation-delay: 0;
+    animation-duration: 0.5s;
+}
+
+.btn-delay-1 {
+    animation-delay: 0;
+}
+
+.btn-delay-2 {
+    animation-delay: 0.1s;
+}
+
+.btn-delay-3 {
+    animation-delay: 0.2s
+}
+
+.btn-delay-4 {
+    animation-delay: 0.3s
+}
+
+
+
+.fadeInLeft {
+    animation-delay: 0s;
+    animation-duration: 0.2s;
+}
+
+.fadeInRight {
+    animation-delay: 0s;
+    animation-duration: 0.2s;
+}
