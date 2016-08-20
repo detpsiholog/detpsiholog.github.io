@@ -551,3 +551,9 @@ strong {
     animation-delay: 0s;
     animation-duration: 0.2s;
 }
+
+@media (orientation: portrait) {
+    .short-content {
+        height: auto;
+    }
+}
