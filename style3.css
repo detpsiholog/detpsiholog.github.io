@@ -566,6 +566,9 @@ strong {
         padding-left: 0px;
     }
     .btn-diagnostics {
-        font-size: 14px;
+        font-size: 13px;
+    }
+    .col-md-4 {
+        width: 100%;
     }
 }
