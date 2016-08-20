@@ -567,6 +567,8 @@ strong {
     }
     .btn-diagnostics {
         font-size: 13px;
+        border-color: #666;
+        border-width: 2px;
     }
     .col-md-4 {
         width: 100%;
