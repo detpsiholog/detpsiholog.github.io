@@ -571,4 +571,7 @@ strong {
     .col-md-4 {
         width: 100%;
     }
+    #projects-portrait-1 {
+        font-size: 12px;
+    }
 }
