@@ -473,8 +473,9 @@ strong {
 
 #games-btn-3 {
     height: 289.5px;
-    background-image:;
+    background-image:url(Images/aggressive.jpg);
     background-position: center;
+    background-size: cover;
 }
 
 #games-btn-4 {
@@ -577,3 +578,8 @@ strong {
         font-size: 12px;
     }
 }
+@media (min-width: 768px) {
+    navbar-nav > li > a {
+        letter-spacing: 0px;
+    }
+} 
